@@ -23,3 +23,5 @@ This is a collection of my favourite tools for developing back-end python applic
 - [ ] Automated Testing
 - [ ] VSCode Debugging (launch.json)
 - [ ] VSCode Formatting
+- [ ] .env.example
+- [ ] AWS credentials
