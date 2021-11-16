@@ -9,6 +9,10 @@ This is a collection of my favourite tools for developing back-end python applic
 - [ ] Logger
 - [ ] DataDog
 - [ ] Gunicorn
+- [ ] Dockerfile
+- [ ] Codespaces config
+- [ ] PR Checklist
+- [ ] Documented Standards
 - [ ] Requirements (pinned)
 - [ ] Makefile with venv init using pyenv
 - [ ] Brewfile for dependencies
